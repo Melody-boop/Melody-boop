@@ -2,7 +2,7 @@
 
 A professional portfolio showcasing my skills and projects as a Software Developer with a strong interest in Cloud Computing.
 
-🔗 *Live Website:* YOUR-LIVE-LINK-HERE
+🔗 *Live Website:* 'https://melody-boop.github.io/Melody-s-portfolio/'
 
 ---
 
@@ -58,3 +58,36 @@ You can explore the portfolio website here:
 ---
 
 ## 📂 Project Architecture
+The structure is simple, professional, and scalable for future enhancements.
+
+---
+
+## 🎯 Project Goals
+
+- Showcase software development fundamentals  
+- Build a professional online presence  
+- Demonstrate cloud-based deployment experience  
+- Organize and present projects effectively  
+
+---
+
+## 📈 Future Enhancements
+
+- Add backend functionality (API integration)  
+- Deploy additional projects to cloud platforms (Azure, AWS)  
+- Implement CI/CD workflows for project updates  
+- Improve performance, UI/UX, and interactivity  
+
+---
+
+## 👨‍💻 Author
+
+*Your Name*  
+Aspiring Software Developer | Cloud Computing Enthusiast  
+
+GitHub: https://github.com/melody-boop 
+LinkedIn: 'https://linkedin.com/in/melody-mwayitsi-901100317'  
+
+---
+
+⭐ Feel free to explore the live website and my repositories. Your feedback is appreciated!
