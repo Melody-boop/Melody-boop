@@ -82,7 +82,7 @@ The structure is simple, professional, and scalable for future enhancements.
 
 ## 👨‍💻 Author
 
-*Your Name*  
+MELODY MWAYITSI
 Aspiring Software Developer | Cloud Computing Enthusiast  
 
 GitHub: https://github.com/melody-boop 
